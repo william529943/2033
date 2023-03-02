@@ -1,0 +1,11 @@
+﻿  源.c
+E:\ccccccccc\projects\3.2projiect\源.c(11,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+E:\ccccccccc\projects\3.2projiect\源.c(11,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 1 冲突
+E:\ccccccccc\projects\3.2projiect\源.c(11,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“int *”
+E:\ccccccccc\projects\3.2projiect\源.c(11,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 2 冲突
+E:\ccccccccc\projects\3.2projiect\源.c(11,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“int *”
+E:\ccccccccc\projects\3.2projiect\源.c(11,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 3 冲突
+E:\ccccccccc\projects\3.2projiect\源.c(11,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 4 拥有了类型“int *”
+E:\ccccccccc\projects\3.2projiect\源.c(11,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 4 冲突
+E:\ccccccccc\projects\3.2projiect\源.c(6,8): warning C4133: “初始化”: 从“int *”到“char *”的类型不兼容
+  3.2projiect.vcxproj -> E:\ccccccccc\projects\3.2projiect\x64\Debug\3.2projiect.exe
